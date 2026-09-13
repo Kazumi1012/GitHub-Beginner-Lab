@@ -19,7 +19,7 @@ namespace StudentProfile
 
         private void button1_Click(object sender, EventArgs e)
         {
-            string name = " Creus, Shairo Andrew P.";
+            string name = "Student Profile — GitHub Beginner Lab";
             string result = name;
 
             label1.Text = result;
